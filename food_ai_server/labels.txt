@@ -1,0 +1,6 @@
+0 Phở
+1 Cơm Trắng
+2 Gà Rán
+3 Bánh Mì
+4 Bánh Cuốn
+5 Gỏi Cuốn
